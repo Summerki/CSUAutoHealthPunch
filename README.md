@@ -19,5 +19,4 @@ java -jar xxx.jar --username=[学号1];[学号2] --password=[密码1];[密码2] 
 # SpringBoot的可选参数都可以使用
 ```
 
-
-
++ 适用：将JAR包放在云服务器上运行最为合适
