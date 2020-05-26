@@ -20,3 +20,4 @@ java -jar xxx.jar --username=[学号1];[学号2] --password=[密码1];[密码2] 
 ```
 
 + 适用：将JAR包放在云服务器上运行最为合适
++ 编译好的JAR包放在`res->CSUAutoHealthPunch.jar`里
